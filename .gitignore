@@ -12,3 +12,10 @@ __pycache__/
 .idea/
 *.iml
 .vscode/
+
+# 输出 / 临时文件
+_生成结果/
+_tmp_fonts/
+dist/
+*.spec
+build/
